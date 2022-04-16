@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/3P1b/Desktop/javaStuidio/app/src/main/res/layout/activity_album.xml" value="0.203125" />
+        <entry key="..\:/Users/3P1b/Desktop/javaStuidio/app/src/main/res/layout/activity_camera.xml" value="0.203125" />
+        <entry key="..\:/Users/3P1b/Desktop/javaStuidio/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/3P1b/Desktop/javaStuidio/app/src/main/res/layout/activity_network.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/3P1b/Desktop/javaStuidio/app/src/main/res/layout/jeden_wiersz.xml" value="0.203125" />
+        <entry key="..\:/Users/3P1b/Desktop/javaStuidio/app/src/main/res/layout/wiersz.xml" value="0.203125" />
+        <entry key="..\:/Users/3P1b/Desktop/javaStuidio/app/src/main/res/mipmap-anydpi-v26/left-arrow.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/adamk/Desktop/srudio/javaStuidioo/app/src/main/res/layout/activity_album.xml" value="0.1" />
+        <entry key="..\:/Users/adamk/Desktop/srudio/javaStuidioo/app/src/main/res/layout/activity_camera.xml" value="0.1" />
+        <entry key="..\:/Users/adamk/Desktop/srudio/javaStuidioo/app/src/main/res/layout/activity_gallery.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/adamk/Desktop/srudio/javaStuidioo/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/adamk/Desktop/srudio/javaStuidioo/app/src/main/res/layout/wiersz.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

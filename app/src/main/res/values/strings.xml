@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kot</string>
+    <string name="camera">camera</string>
+    <string name="album">album</string>
+    <string name="collage">collage</string>
+    <string name="network">network</string>
+</resources>
